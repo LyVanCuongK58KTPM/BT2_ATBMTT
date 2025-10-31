@@ -30,7 +30,7 @@
 - Sau khi chạy code py, chữ kí từ ảnh png sẽ được đưa vào file chukiso.pdf và cho ra file signed_output.pdf đã được kí:
   <img width="850" height="758" alt="image" src="https://github.com/user-attachments/assets/e5b19059-a5fe-4dbb-98d2-5d3f54bfe940" />
 
-- Tạo 1 file py để kiểm tra chứng chỉ chữ kí:
+- Tạo 1 file py để kiểm tra xác thực chữ kí:
   
 <img width="1410" height="799" alt="image" src="https://github.com/user-attachments/assets/4b4bd916-cb52-4a0d-a840-f98383eb7025" />
 
